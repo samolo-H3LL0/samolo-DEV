@@ -17,7 +17,6 @@ Buenas, soy samolo!
 
 :trollface: Bueno, pues ya esta
 
-<p style='color: red;'>jeje</p>
 
 
 

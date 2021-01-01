@@ -11,11 +11,13 @@ Buenas, soy samolo!
 
 *Links Útiles:*
 
-[Github](https://github.com/samolo-H3LL0/)
-[Roblox](https://web.roblox.com/users/518168287/profile)
-[Oveho.js Proyect](https://discord.gg/UVwKSB7sGm)
+- [Github](https://github.com/samolo-H3LL0/)
+- [Roblox](https://web.roblox.com/users/518168287/profile)
+- [Oveho.js Proyect](https://discord.gg/UVwKSB7sGm)
 
 :trollface: Bueno, pues ya esta
+
+<p style='color: red;'>jeje</p>
 
 
 

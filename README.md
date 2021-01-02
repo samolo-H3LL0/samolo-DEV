@@ -1,5 +1,5 @@
 # samolo-DEV
-Buenas, soy samolo!
+<p align="center">Buenas, soy samolo!</p>
 
 ###### soy desarrollador de bots :robot:
 
@@ -15,7 +15,7 @@ Buenas, soy samolo!
 - [Roblox](https://web.roblox.com/users/518168287/profile)
 - [Oveho.js Proyect](https://discord.gg/UVwKSB7sGm)
 
-:trollface: Bueno, pues ya esta
+:trollface: <p color="red">Bueno, pues ya esta</p>
 
 
 

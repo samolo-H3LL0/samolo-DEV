@@ -4,10 +4,11 @@
 ###### soy desarrollador de bots :robot:
 
 **he programado en los siguientes lenguages:**
-- `BDFD`
-- `DBD.js`
-- `Discord.js`
+- `BDFD` este es una mierda
+- `DBD.js` este mas  o menos
+- `Discord.js` i love
 
+* 👶 Borned in Spain gente
 
 *Links Útiles:*
 

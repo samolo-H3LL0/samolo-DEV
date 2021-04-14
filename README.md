@@ -8,8 +8,17 @@
 - `DBD.js` este mas  o menos
 - `Discord.js` i love
 
-* 👶 Borned in Spain gente
+ok ahora de verdad
+- JavaScript
+- TypeScript
+- GluScript
+- php
+- mySQl
+- 
 
+* 👶 Borned in Spain gente
+* he jugado al pijajugo okg
+* 
 *Links Útiles:*
 
 - [Github](https://github.com/samolo-H3LL0/)

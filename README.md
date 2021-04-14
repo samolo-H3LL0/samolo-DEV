@@ -13,7 +13,7 @@ ok ahora de verdad
 - TypeScript
 - GluScript
 - php
-- mySQl
+- mySQL
 - 
 
 * 👶 Borned in Spain gente
